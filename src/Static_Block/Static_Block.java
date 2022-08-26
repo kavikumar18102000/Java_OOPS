@@ -11,11 +11,17 @@ public class Static_Block {
     initialize instance members.
 
     this block will run only once when the first object of that class is created...
+    static block will get initialized when the class loads...
      */
 
     static{
         System.out.println("HI, I am a static block...");
         b=a*5;
+    }
+
+// we can use multiple static blocks also....
+    static{
+        System.out.println("Hi, I am second static block");
     }
 
     public static void main(String[] args) {
