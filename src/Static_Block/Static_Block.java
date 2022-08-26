@@ -10,6 +10,8 @@ public class Static_Block {
     loaded into the JVM. A static blocks helps to initialize the static data members, just like constructors help to
     initialize instance members.
 
+    It gets executed before the main method is called. It gets initialized when the class is loaded..
+
     this block will run only once when the first object of that class is created...
     static block will get initialized when the class loads...
      */
