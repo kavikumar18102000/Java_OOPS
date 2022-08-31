@@ -15,7 +15,8 @@ public class Singleton_class {
 
     public static Singleton_class instance; // a variable of class "Singleton", and it is null as no object created.
 
-    public static Singleton_class getInstance(){
+    public static Singleton_class getInstance(){//we should make this function static as we are not creating the
+        // instance in the main class
         if(instance==null){ // as the variable is null, an object is created by calling the constructor. If the
             // condition is false it will not call the constructor to create an object of that class.
             instance=new Singleton_class();
