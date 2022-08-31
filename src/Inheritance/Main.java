@@ -41,7 +41,7 @@ public class Main {
 we can create a reference variable of a base class and can assign the object of the subclass.
  */
         Box b5 = new Box_weight(2,4,6,7);//if we do like this, we can only access the overridden methods in child
-        // class and we can access the parent class methods and variables. If a new is implemented in the child
+        // class and we can access the parent class methods and variables. If a new method is implemented in the child
         // class, then we can't access it by using the parent class reference.
 
         System.out.println(b5.l);
