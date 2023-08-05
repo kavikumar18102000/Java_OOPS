@@ -1,5 +1,6 @@
 package Abstract_Classes;
 
+
 public class son1 extends Parent{
     public son1(int age) {
         super(age);

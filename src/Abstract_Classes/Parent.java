@@ -2,7 +2,7 @@ package Abstract_Classes;
 
 /*
 
-* If a class contains more than one abstract class, it must be defined as abstract class.
+* If a class contains more than one abstract method, it must be defined as abstract class.
 * The abstract methods will not have the body of the function, it will only be defined.
 * The subclass which extends the base abstract-class must and should override the abstract methods.
 * The body of the abstract methods are defined in the subclass.

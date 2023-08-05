@@ -5,14 +5,14 @@ public class enum_with_constructor {
     enum Week{
         sunday, monday, tuesday;
 
-        //constructor is not public or protected, it is protected or default.
-        //constructor is called for each and every object seperately
+        //constructor is not public or protected, it is private or default.
+        //constructor is called for each and every object seperately.
 //        even if we access constructor for one instance, it will access for objects internally...
         /*
 
         Why it is private not public ?
         --> public allows us to call the constructor and create more objects, but that is not the use of enum
-        as it should no tbe changed.
+        as it should not be changed.
 
          */
         Week(){

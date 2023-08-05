@@ -6,7 +6,7 @@ public class circle extends shapes{
 
 /*
 What is method overriding ?
-A method is used im the child class as same as the parent class, only the body of the method is changed.
+A method is used in the child class as same as the parent class, only the body of the method is changed.
  */
 
     @Override
