@@ -1,0 +1,8 @@
+
+
+Method references is nothing but, referencing a method to a functional interface.
+
+Instead of implementing the functional interface, we can assign a method already defined to the interface. The method
+might be a static, or a member function of an object, or even a constructor of a class.
+
+But note that method reference can be done to functional interface only....
