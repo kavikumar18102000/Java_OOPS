@@ -1,4 +1,4 @@
-package Lamda_functions;
+package Java_8_Features.Lamda_functions;
 
 public class example2_demo {
     public static void main(String[] args) {

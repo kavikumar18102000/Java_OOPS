@@ -1,4 +1,4 @@
-package Method_References.Reference_Static_Method;
+package Java_8_Features.Method_References.Reference_Static_Method;
 
 //static method references using inbuilt interfaces...
 

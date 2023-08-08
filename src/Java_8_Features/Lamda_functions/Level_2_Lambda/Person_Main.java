@@ -1,4 +1,4 @@
-package Lamda_functions.Level_2_Lambda;
+package Java_8_Features.Lamda_functions.Level_2_Lambda;
 
 import java.util.List;
 import java.util.function.Predicate;

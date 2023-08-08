@@ -1,4 +1,4 @@
-package Lamda_functions;
+package Java_8_Features.Lamda_functions;
 
 
 //a lambda function is a function which is implemented in a single line...

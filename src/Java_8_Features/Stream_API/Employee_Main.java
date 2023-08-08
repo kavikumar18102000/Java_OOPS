@@ -1,4 +1,4 @@
-package Stream_API;
+package Java_8_Features.Stream_API;
 
 import java.util.*;
 import java.util.stream.Collectors;

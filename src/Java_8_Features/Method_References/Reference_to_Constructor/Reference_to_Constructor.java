@@ -1,4 +1,4 @@
-package Method_References.Reference_to_Constructor;
+package Java_8_Features.Method_References.Reference_to_Constructor;
 
 
 interface Constructor_reference{

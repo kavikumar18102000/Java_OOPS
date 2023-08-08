@@ -1,4 +1,4 @@
-package Method_References.Reference_Static_Method;
+package Java_8_Features.Method_References.Reference_Static_Method;
 
 //Method references can be done to a functional interface only...
 interface Static_Method_Interface{

@@ -1,4 +1,4 @@
-package Method_References.Reference_Instance_Method;
+package Java_8_Features.Method_References.Reference_Instance_Method;
 
 public class Instance_method_2 {
     public void message(){
